@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **frameworks and website animations**
 
-- 📝 My fields of interest [I am interested in web development and ethical hacking](I am interested in web development and ethical hacking)
+- 📝 My fields of interest I am interested in web development and ethical hacking.
 
 - 📫 How to reach me **kartikgupta2006@gmail.com**
 
